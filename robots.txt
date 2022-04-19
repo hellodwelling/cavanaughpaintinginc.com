@@ -1,1 +1,3 @@
-disallow: /index
+User-agent: *
+Disallow: 
+Sitemap: https://cavanaughpaintinginc.com/sitemap.xml
